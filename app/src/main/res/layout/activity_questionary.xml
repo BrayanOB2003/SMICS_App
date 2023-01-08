@@ -24,6 +24,7 @@
         android:layout_marginTop="264dp"
         android:text="@string/registration_meg"
         android:background="@color/smics_purple"
+        android:onClick="openMegActivity"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"/>
 

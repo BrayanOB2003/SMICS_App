@@ -15,6 +15,30 @@
     <string name="registration_partera">Registrar datos de generales</string>
 
     <string name="img_description1">Silueta de mujer</string>
+
+    <string name="meg_name">Nombre:</string>
+    <string name="meg_lastname">Apellido:</string>
+    <string name="meg_age">Edad:</string>
+    <string name="meg_id">C.C:</string>
+    <string name="meg_region">Region:</string>
+    <string name="meg_gestation">Tiempo \nde gestación:</string>
+
+    <string-array name="regions">
+        <item>Norte</item>
+        <item>Centro</item>
+        <item>Pacifico</item>
+        <item>Oriente</item>
+        <item>Macizo</item>
+        <item>Piedemonte</item>
+    </string-array>
+
+    <string-array name="times">
+        <item>Meses</item>
+        <item>Semanas</item>
+        <item>Días</item>
+    </string-array>
+
+    <string name="button_register">Registrar</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
