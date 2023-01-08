@@ -2,12 +2,19 @@
     <string name="app_name">SMICS_Project</string>
     <string name="txt_welcome">Bienvenid@s</string>
     <string name="txt_logoDescription">Logo</string>
-    <string name="button_login">Hacer registro</string>
+    <string name="button_login">Hacer registros</string>
 
     <string name="redes_whatsApp">3128433244</string>
     <string name="redes_twiter">.@parteriaSegura</string>
     <string name="redes_facebook">.@parteriaSegura</string>
     <string name="redes_instagram">.@ParteriaSegura2023</string>
+
+    <string name="registration_meg">Registro de MEG</string>
+    <string name="registration_factors">Registrar factores de riesgo</string>
+    <string name="registration_evaluation">Evaluación de MEG</string>
+    <string name="registration_partera">Registrar datos de generales</string>
+
+    <string name="img_description1">Silueta de mujer</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
