@@ -2,19 +2,19 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/firsFragment"
-        android:icon="@drawable/contacto"
-        android:title="Contactanos"
+        android:icon="@drawable/hogar"
+        android:title="Inicio"
         />
 
     <item
         android:id="@+id/secondFragment"
-        android:icon="@drawable/auriculares"
-        android:title="Ayuda virtual"
+        android:icon="@drawable/ayudar"
+        android:title="Asesoria virtual y redes"
         />
 
     <item
         android:id="@+id/thirdFragment"
-        android:icon="@drawable/ayudar"
+        android:icon="@drawable/buscar"
         android:title="¿Quienes somos?"
         />
 </menu>
