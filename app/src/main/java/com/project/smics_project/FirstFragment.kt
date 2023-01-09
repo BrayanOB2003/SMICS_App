@@ -7,7 +7,6 @@ import android.view.View
 import android.view.ViewGroup
 import android.content.Intent
 import android.widget.Button
-import com.project.smics_project.R.id.button
 
 // TODO: Rename parameter arguments, choose names that match
 // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
@@ -67,7 +66,7 @@ class FirstFragment : Fragment() {
     }
 
     fun openRegisterManager(view: View){
-        val newActivity = Intent(activity,QuestionaryActivity::class.java)
+        val newActivity = Intent(activity,QuestionnaireActivity::class.java)
         startActivity(newActivity)
     }
 }

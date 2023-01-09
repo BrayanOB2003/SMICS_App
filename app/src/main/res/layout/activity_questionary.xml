@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    tools:context=".QuestionaryActivity">
+    tools:context=".QuestionnaireActivity">
 
     <ImageView
         android:id="@+id/imageView5"
@@ -23,7 +23,6 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="264dp"
         android:text="@string/registration_meg"
-        android:background="@color/smics_purple"
         android:onClick="openMegActivity"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"/>
@@ -34,6 +33,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="24dp"
         android:text="@string/registration_evaluation"
+        android:onClick="openMegEvaluation"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button2" />
 
@@ -43,6 +43,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="24dp"
         android:text="@string/registration_factors"
+        android:onClick="openFactorsActivity"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button3" />
 
@@ -52,6 +53,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:text="@string/registration_partera"
+        android:onClick="openRegisterGeneralData"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button4" />
 </androidx.constraintlayout.widget.ConstraintLayout>

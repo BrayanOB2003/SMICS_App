@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SMICS_Project</string>
+    <string name="app_name">SMICS</string>
     <string name="txt_welcome">Bienvenid@s</string>
     <string name="txt_logoDescription">Logo</string>
     <string name="button_login">Hacer registros</string>
@@ -39,6 +39,23 @@
     </string-array>
 
     <string name="button_register">Registrar</string>
+    <string name="txt_factors">Selecciona factores de riesgo</string>
+    <string name="txt_identifier">Identifica a la gestante</string>
+
+    <string name="check_factor1">Ambientales</string>
+    <string name="check_factor2">Sociales</string>
+    <string name="check_factor3">Laborales</string>
+    <string name="check_factor4">Domésticos</string>
+    <string name="check_factor5">Sentimentales</string>
+    <string name="check_factor6">Maritales</string>
+
+    <string name="project_title1">¿Qué hacemos?</string>
+    <string name="project_description">
+        Contribuir en la promoción de la salud Maternay perinatal
+        segura previniendo la mortalidad atreves de la articulación de la sabiduría ancestral
+        y los servicios de salud materna convencional.
+    </string>
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

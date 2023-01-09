@@ -3,13 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/SMICS_Project/app/src/main/res/layout/activity_factors.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/SMICS_Project/app/src/main/res/layout/activity_factors.xml" value="0.25" />
         <entry key="..\:/Users/USUARIO/AndroidStudioProjects/SMICS_Project/app/src/main/res/layout/activity_main.xml" value="0.15" />
         <entry key="..\:/Users/USUARIO/AndroidStudioProjects/SMICS_Project/app/src/main/res/layout/activity_meg.xml" value="0.22447916666666667" />
-        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/SMICS_Project/app/src/main/res/layout/activity_questionary.xml" value="0.22083333333333333" />
-        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/SMICS_Project/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/SMICS_Project/app/src/main/res/layout/activity_questionary.xml" value="0.33" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/SMICS_Project/app/src/main/res/layout/fragment_first.xml" value="0.22" />
         <entry key="..\:/Users/USUARIO/AndroidStudioProjects/SMICS_Project/app/src/main/res/layout/fragment_second.xml" value="0.22447916666666667" />
-        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/SMICS_Project/app/src/main/res/layout/fragment_third.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/SMICS_Project/app/src/main/res/layout/fragment_third.xml" value="0.25" />
         <entry key="..\:/Users/USUARIO/AndroidStudioProjects/SMICS_Project/app/src/main/res/menu/bottom_navigation.xml" value="0.22447916666666667" />
       </map>
     </option>
